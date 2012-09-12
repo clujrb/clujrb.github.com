@@ -6,8 +6,8 @@ comments: false
 published: true
 ---
 
-# Testing out Octopress
+## Testing out Octopress
 
-```
+```bash
 $ sudo make me a sandwich
 ```
