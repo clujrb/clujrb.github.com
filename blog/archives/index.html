@@ -9,7 +9,8 @@
   <meta name="author" content="Cluj.rb">
 
   
-  <meta name="description" content="Blog Archive Recent Posts GitHub Repos Status updating... @clujrb on GitHub $.domReady(function(){ if (!window.jXHR){ var jxhr = document. &hellip;">
+  <meta name="description" content="Blog Archive 2012 First octopost
+Sep 12 2012 Upcoming Events Recent Posts First octopost GitHub Repos Status updating... @clujrb on GitHub $. &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -72,6 +73,19 @@
   
   <div id="blog-archives">
 
+
+
+  
+  <h2>2012</h2>
+
+<article>
+  
+<h1><a href="/blog/2012/09/12/first-octopost/">First octopost</a></h1>
+<time datetime="2012-09-12T10:24:00+03:00" pubdate><span class='month'>Sep</span> <span class='day'>12</span> <span class='year'>2012</span></time>
+
+
+</article>
+
 </div>
 
   
@@ -82,8 +96,17 @@
 <aside class="sidebar">
   
     <section>
+  <h1>Upcoming Events</h1>
+  <ol id="meetup-events">
+  </ol>
+</section>
+<section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/09/12/first-octopost/">First octopost</a>
+      </li>
     
   </ul>
 </section>
@@ -135,9 +158,6 @@
 </section>
 
 
-
-
-
   
 </aside>
 
@@ -148,6 +168,42 @@
   Copyright &copy; 2012 - Cluj.rb -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
+
+
+<script>
+  function processMeetupEvents(resp) {
+    if(resp && resp.results) {
+      var results = resp.results;
+      var str = '';
+
+      for(var i in results) {
+        var result = results[i];
+        var event_url = result.event_url;
+        var d = new Date(result.time);
+        var date  = d.getDate();
+        var month = d.getMonth() + 1;
+        var formatted_date = month + '/' + date;
+        var name = '[' + formatted_date + '] - ' + result.name;
+
+        str += '<li><a href="' + event_url + '">' + name + '</a></li>'
+      }
+
+      $('#meetup-events').html(str);
+    }
+  }
+
+  $.domReady(function() {
+    var head    = document.getElementsByTagName('head')[0];
+    var script  = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src  = 'https://api.meetup.com/2/events?key=2048484b5f272613761f1e12397b137f&sign=true&page=2&group_id=1651014&callback=processMeetupEvents';
+
+    head.appendChild(script);
+  });
+</script>
+
+
+
 
 </footer>
   

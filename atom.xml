@@ -4,7 +4,7 @@
   <title><![CDATA[Cluj.rb]]></title>
   <link href="http://clujrb.github.com/atom.xml" rel="self"/>
   <link href="http://clujrb.github.com/"/>
-  <updated>2012-09-12T10:18:19+03:00</updated>
+  <updated>2012-09-12T11:10:05+03:00</updated>
   <id>http://clujrb.github.com/</id>
   <author>
     <name><![CDATA[Cluj.rb]]></name>
@@ -12,5 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First octopost]]></title>
+    <link href="http://clujrb.github.com/blog/2012/09/12/first-octopost/"/>
+    <updated>2012-09-12T10:24:00+03:00</updated>
+    <id>http://clujrb.github.com/blog/2012/09/12/first-octopost</id>
+    <content type="html"><![CDATA[<h2>Testing out Octopress</h2>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'><span class="nv">$ </span>sudo make me a sandwich
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
 </feed>
