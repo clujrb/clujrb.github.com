@@ -4,7 +4,7 @@
   <title><![CDATA[Cluj.rb]]></title>
   <link href="http://clujrb.github.com/atom.xml" rel="self"/>
   <link href="http://clujrb.github.com/"/>
-  <updated>2012-09-17T14:37:15+03:00</updated>
+  <updated>2012-09-29T17:57:16+03:00</updated>
   <id>http://clujrb.github.com/</id>
   <author>
     <name><![CDATA[Cluj.rb]]></name>
@@ -14,16 +14,16 @@
 
   
   <entry>
-    <title type="html"><![CDATA[First octopost]]></title>
-    <link href="http://clujrb.github.com/blog/2012/09/12/first-octopost/"/>
-    <updated>2012-09-12T10:24:00+03:00</updated>
-    <id>http://clujrb.github.com/blog/2012/09/12/first-octopost</id>
-    <content type="html"><![CDATA[<h2>Testing out Octopress</h2>
+    <title type="html"><![CDATA[GeekMeet #11 - Sysops cu Chef: automatizarea infrastructurii]]></title>
+    <link href="http://clujrb.github.com/blog/2012/09/29/geekmeet-number-11-sysops-cu-chef-automatizarea-infrastructurii/"/>
+    <updated>2012-09-29T17:52:00+03:00</updated>
+    <id>http://clujrb.github.com/blog/2012/09/29/geekmeet-number-11-sysops-cu-chef-automatizarea-infrastructurii</id>
+    <content type="html"><![CDATA[<p>Multumim pentru cei de la <a href="http://clujcowork.ro/">ClujCowork</a> ca au gazduit <a href="https://plus.google.com/events/c9cdj4oabkquv8tlrno7dduskc0">GeekMeet #11 Cluj</a>.</p>
 
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='bash'><span class='line'><span class="nv">$ </span>sudo make me a sandwich
-</span></code></pre></td></tr></table></div></figure>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/14515980" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
 
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/ihoka/sysops-cu-chef" title="Sysops cu Chef" target="_blank">Sysops cu Chef</a> </strong> from <strong><a href="http://www.slideshare.net/ihoka" target="_blank">Istvan Hoka</a></strong> </div></p>
 ]]></content>
   </entry>
   
