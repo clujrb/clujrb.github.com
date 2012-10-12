@@ -3,7 +3,7 @@ layout: post
 title: "GeekMeet #11 - Sysops cu Chef: automatizarea infrastructurii"
 date: 2012-09-29 17:52
 comments: true
-categories: 
+categories: Meetups
 ---
 
 Multumim pentru cei de la [ClujCowork](http://clujcowork.ro/) ca au gazduit [GeekMeet #11 Cluj](https://plus.google.com/events/c9cdj4oabkquv8tlrno7dduskc0).
