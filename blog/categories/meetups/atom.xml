@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Cluj.rb]]></title>
-  <link href="http://clujrb.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Meetups | Cluj.rb]]></title>
+  <link href="http://clujrb.github.com/blog/categories/meetups/atom.xml" rel="self"/>
   <link href="http://clujrb.github.com/"/>
   <updated>2012-10-12T10:38:56+03:00</updated>
   <id>http://clujrb.github.com/</id>
