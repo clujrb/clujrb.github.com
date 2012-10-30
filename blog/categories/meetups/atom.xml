@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Meetups | Cluj.rb]]></title>
   <link href="http://clujrb.github.com/blog/categories/meetups/atom.xml" rel="self"/>
   <link href="http://clujrb.github.com/"/>
-  <updated>2012-10-12T10:38:56+03:00</updated>
+  <updated>2012-10-30T19:32:39+02:00</updated>
   <id>http://clujrb.github.com/</id>
   <author>
     <name><![CDATA[Cluj.rb]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Build event based UI with Backbone.js]]></title>
+    <link href="http://clujrb.github.com/blog/2012/10/30/build-event-based-ui-with-backbone-dot-js/"/>
+    <updated>2012-10-30T19:25:00+02:00</updated>
+    <id>http://clujrb.github.com/blog/2012/10/30/build-event-based-ui-with-backbone-dot-js</id>
+    <content type="html"><![CDATA[<p>Multumim pentru cei de la <a href="http://clujcowork.ro/">ClujCowork</a> ca au gazduit <a href="http://www.meetup.com/cluj-rb/events/87405762/">Build event based UI with Backbone.js</a>.</p>
+
+<h2>Build event based UI with Backbone.js</h2>
+
+<script async class="speakerdeck-embed" data-id="508fefda9b3a59000204ff05" data-ratio="1.299492385786802" src="http://clujrb.github.com//speakerdeck.com/assets/embed.js"></script>
+
+
+<p>Codul sursa: <a href="https://github.com/dombesz/rails-backbone">https://github.com/dombesz/rails-backbone</a>.</p>
+
+<h2>Ember.js and Jasmine BDD. Building TodoMVC project.</h2>
+
+<script async class="speakerdeck-embed" data-id="50846ac1f713ac0002045eae" data-ratio="1.3333333333333333" src="http://clujrb.github.com//speakerdeck.com/assets/embed.js"></script>
+
+
+<p>Codul sursa: <a href="https://github.com/stas/emberjs-jasmine-slides-geekmeet">https://github.com/stas/emberjs-jasmine-slides-geekmeet</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ruby EventMachine: programare bazata pe evenimente]]></title>
