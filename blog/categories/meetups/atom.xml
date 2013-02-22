@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Meetups | Cluj.rb]]></title>
   <link href="http://clujrb.github.com/blog/categories/meetups/atom.xml" rel="self"/>
   <link href="http://clujrb.github.com/"/>
-  <updated>2012-10-30T19:32:39+02:00</updated>
+  <updated>2013-02-22T13:57:30+02:00</updated>
   <id>http://clujrb.github.com/</id>
   <author>
     <name><![CDATA[Cluj.rb]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Redis si Resque pentru aplicatii Rails concurente]]></title>
+    <link href="http://clujrb.github.com/blog/2013/02/22/redis-si-resque-pentru-aplicatii-rails-concurente/"/>
+    <updated>2013-02-22T11:37:00+02:00</updated>
+    <id>http://clujrb.github.com/blog/2013/02/22/redis-si-resque-pentru-aplicatii-rails-concurente</id>
+    <content type="html"><![CDATA[<p>Multumim pentru cei de la <a href="http://clujcowork.ro/">ClujCowork</a> ca au gazduit <a href="http://www.meetup.com/cluj-rb/events/103641692/">Redis si Resque pentru aplicatii Rails concurente</a>.</p>
+
+<iframe src="http://www.slideshare.net/florin555/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Build event based UI with Backbone.js]]></title>

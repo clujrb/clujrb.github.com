@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://clujrb.github.com/sitemap.xml 
