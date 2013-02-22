@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Cluj.rb]]></title>
+  <link href="http://clujrb.github.com/atom.xml" rel="self"/>
+  <link href="http://clujrb.github.com/"/>
+  <updated>2012-10-30T19:32:39+02:00</updated>
+  <id>http://clujrb.github.com/</id>
+  <author>
+    <name><![CDATA[Cluj.rb]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Build event based UI with Backbone.js]]></title>
+    <link href="http://clujrb.github.com/blog/2012/10/30/build-event-based-ui-with-backbone-dot-js/"/>
+    <updated>2012-10-30T19:25:00+02:00</updated>
+    <id>http://clujrb.github.com/blog/2012/10/30/build-event-based-ui-with-backbone-dot-js</id>
+    <content type="html"><![CDATA[<p>Multumim pentru cei de la <a href="http://clujcowork.ro/">ClujCowork</a> ca au gazduit <a href="http://www.meetup.com/cluj-rb/events/87405762/">Build event based UI with Backbone.js</a>.</p>
+
+<h2>Build event based UI with Backbone.js</h2>
+
+<script async class="speakerdeck-embed" data-id="508fefda9b3a59000204ff05" data-ratio="1.299492385786802" src="http://clujrb.github.com//speakerdeck.com/assets/embed.js"></script>
+
+
+<p>Codul sursa: <a href="https://github.com/dombesz/rails-backbone">https://github.com/dombesz/rails-backbone</a>.</p>
+
+<h2>Ember.js and Jasmine BDD. Building TodoMVC project.</h2>
+
+<script async class="speakerdeck-embed" data-id="50846ac1f713ac0002045eae" data-ratio="1.3333333333333333" src="http://clujrb.github.com//speakerdeck.com/assets/embed.js"></script>
+
+
+<p>Codul sursa: <a href="https://github.com/stas/emberjs-jasmine-slides-geekmeet">https://github.com/stas/emberjs-jasmine-slides-geekmeet</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ruby EventMachine: programare bazata pe evenimente]]></title>
+    <link href="http://clujrb.github.com/blog/2012/10/12/ruby-eventmachine-programare-bazata-pe-evenimente/"/>
+    <updated>2012-10-12T10:35:00+03:00</updated>
+    <id>http://clujrb.github.com/blog/2012/10/12/ruby-eventmachine-programare-bazata-pe-evenimente</id>
+    <content type="html"><![CDATA[<p>Multumim pentru cei de la <a href="http://clujcowork.ro/">ClujCowork</a> ca au gazduit <a href="http://www.meetup.com/cluj-rb/events/83267112/">Ruby EventMachine: programare bazata pe evenimente</a>.</p>
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/14696669" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
+
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/florin555/ruby-eventmachine" title="Ruby EventMachine" target="_blank">Ruby EventMachine</a> </strong> from <strong><a href="http://www.slideshare.net/florin555" target="_blank">Florin Oltean</a></strong> </div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GeekMeet #11 - Sysops cu Chef: automatizarea infrastructurii]]></title>
+    <link href="http://clujrb.github.com/blog/2012/09/29/geekmeet-number-11-sysops-cu-chef-automatizarea-infrastructurii/"/>
+    <updated>2012-09-29T17:52:00+03:00</updated>
+    <id>http://clujrb.github.com/blog/2012/09/29/geekmeet-number-11-sysops-cu-chef-automatizarea-infrastructurii</id>
+    <content type="html"><![CDATA[<p>Multumim pentru cei de la <a href="http://clujcowork.ro/">ClujCowork</a> ca au gazduit <a href="https://plus.google.com/events/c9cdj4oabkquv8tlrno7dduskc0">GeekMeet #11 Cluj</a>.</p>
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/14515980" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
+
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/ihoka/sysops-cu-chef" title="Sysops cu Chef" target="_blank">Sysops cu Chef</a> </strong> from <strong><a href="http://www.slideshare.net/ihoka" target="_blank">Istvan Hoka</a></strong> </div></p>
+]]></content>
+  </entry>
+  
+</feed>

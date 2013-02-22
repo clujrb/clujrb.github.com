@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://clujrb.github.com/blog/2012/09/29/geekmeet-number-11-sysops-cu-chef-automatizarea-infrastructurii/
+        </loc>
+        <lastmod>2012-10-12T10:35:54+03:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://clujrb.github.com/blog/2012/10/12/ruby-eventmachine-programare-bazata-pe-evenimente/
+        </loc>
+        <lastmod>2012-10-12T10:37:42+03:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://clujrb.github.com/blog/2012/10/30/build-event-based-ui-with-backbone-dot-js/
+        </loc>
+        <lastmod>2012-10-30T19:31:28+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://clujrb.github.com/blog/archives/</loc>
+        <lastmod>2012-10-30T19:31:28+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://clujrb.github.com/blog/</loc>
+        <lastmod>2012-10-30T19:31:28+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://clujrb.github.com/</loc>
+        <lastmod>2012-09-16T10:22:30+03:00</lastmod>
+    </url>
+</urlset>
